@@ -14,7 +14,7 @@ Various reports and assignments made during my Business Analytics program at Sen
 [Careem: The Data Breach of the First Unicorn in The Middle East](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Tareq%20Haboukh%20-%20Data%20Breach%20Essay.pdf)
 
 ### TMDB Report
-[TMDb Movie Data Analysis](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/TMDB%20Report/TMDb%20Report.pdf)
+[TMDB Movie Data Analysis](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/TMDB%20Report/TMDb%20Report.pdf)
 
 ### Statistics for Analytics
 - [1993 Cars Dataset Analysis](https://github.com/Tareqhaboukh/Business-Analytics/blob/a36fded7071da25fcdb0d2dae729375a878a0d7d/Statistics%20For%20Analytics/Assignment%201%20-%20Cars%20Dataset%20Analysis.pdf)
