@@ -30,6 +30,6 @@ Various reports and assignments made during my Business Analytics program at Sen
 - [Twitter Tweets Sentiment Analysis](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Sentiment%20Analysis%20and%20Text%20Mining/Assignment%203.pdf)
 
 #### Applied Data Mining and Modeling
+- [Data cleaning, preparation, and transformation On Titanic Dataset](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%202.pdf)
 - [Feature Selection with Python](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%201.pdf)
-- [Titanic Dataset Preparation](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%202.pdf)
-- [K-means Clustering Algorithm with Python](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%203.pdf)
+- [K-means Clustering Algorithm with Python](https://github.com/Tareqhaboukh/Business-Aalytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%203.pdf)
