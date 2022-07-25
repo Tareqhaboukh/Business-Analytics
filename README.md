@@ -3,6 +3,10 @@ Various reports and assignments made during my Business Analytics program at Sen
 
 [Business Analytics Consulting Capstone Project](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Business%20Analytics%20Consulting%20Capstone%20Project.pdf)
 
+[Predictive Analytics - Final Report](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Predictive%20Analytics/Predictive%20Analytics%20-%20Final%20Report.pdf)
+
+[Programming For Analytics Project](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Programming%20For%20Analytics/Programming%20For%20Analytics%20Project.pdf)
+
 [Data Breach Essay](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Tareq%20Haboukh%20-%20Data%20Breach%20Essay.pdf)
 
 [TMDB Report](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/TMDB%20Report/TMDb%20Report.pdf)
@@ -19,14 +23,6 @@ Sentiment Analysis and Text Mining
 - [Assignment 1](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Sentiment%20Analysis%20and%20Text%20Mining/Assignment%201.pdf)
 - [Assignment 2](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Sentiment%20Analysis%20and%20Text%20Mining/Assignment%202.pdf)
 - [Assignment 3](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Sentiment%20Analysis%20and%20Text%20Mining/Assignment%203.pdf)
-
-Programming For Analytics
-
-[Programming For Analytics Project](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Programming%20For%20Analytics/Programming%20For%20Analytics%20Project.pdf)
-
-Predictive Analytics
-
-[Predictive Analytics - Final Report](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Predictive%20Analytics/Predictive%20Analytics%20-%20Final%20Report.pdf)
 
 Applied Data Mining and Modeling
 - [Assignment 1](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%201.pdf)
