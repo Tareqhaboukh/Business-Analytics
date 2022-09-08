@@ -10,8 +10,10 @@ Various reports and assignments made during my Business Analytics program at Sen
 #### Programming For Analytics Project
 [Adventure Works - Territory Sales Project](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Programming%20For%20Analytics/Programming%20For%20Analytics%20Project.pdf)
 
-#### Data Breach Essay
-[Careem: The Data Breach of the First Unicorn in The Middle East](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Tareq%20Haboukh%20-%20Data%20Breach%20Essay.pdf)
+#### Applied Data Mining and Modeling
+- [Feature Selection with Python](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%201.pdf)
+- [Data Cleaning, Preparation, and Transformation On The Titanic Dataset](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%202.pdf)
+- [K-means Clustering Algorithm with Python](https://github.com/Tareqhaboukh/Business-Aalytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%203.pdf)
 
 #### TMDB Report
 [TMDB Movie Data Analysis](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/TMDB%20Report/TMDb%20Report.pdf)
@@ -29,7 +31,5 @@ Various reports and assignments made during my Business Analytics program at Sen
 - [Amazon Fine Food Reviews Analysis 2](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Sentiment%20Analysis%20and%20Text%20Mining/Assignment%202.pdf)
 - [Twitter Tweets Sentiment Analysis](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Sentiment%20Analysis%20and%20Text%20Mining/Assignment%203.pdf)
 
-#### Applied Data Mining and Modeling
-- [Data Cleaning, Preparation, and Transformation On The Titanic Dataset](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%202.pdf)
-- [Feature Selection with Python](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%201.pdf)
-- [K-means Clustering Algorithm with Python](https://github.com/Tareqhaboukh/Business-Aalytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%203.pdf)
+#### Data Breach Essay
+[Careem: The Data Breach of the First Unicorn in The Middle East](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Tareq%20Haboukh%20-%20Data%20Breach%20Essay.pdf)
