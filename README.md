@@ -11,7 +11,7 @@ Various reports and assignments made during my Business Analytics program at Sen
 [Adventure Works - Territory Sales Project](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Programming%20For%20Analytics/Programming%20For%20Analytics%20Project.pdf)
 
 #### Applied Data Mining and Modeling
-- [Feature Selection with Python](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%201.pdf)
+- [Feature Selection with Python](Applied Data Mining and Modeling/Files/Feature Selection with Python.ipynb)
 - [Data Cleaning, Preparation, and Transformation On The Titanic Dataset](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%202.pdf)
 - [K-means Clustering Algorithm with Python](https://github.com/Tareqhaboukh/Business-Aalytics/blob/main/Applied%20Data%20Mining%20and%20Modeling/Assignment%203.pdf)
 
