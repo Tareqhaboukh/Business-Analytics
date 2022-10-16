@@ -28,7 +28,8 @@ Various reports and assignments made during my Business Analytics program at Sen
 - [Twitter Tweets Sentiment Analysis](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Sentiment%20Analysis%20and%20Text%20Mining/Assignment%203.pdf)
 
 #### Predictive Analytics Report
-[Predicting The Recurrence of Breast Cancer Using Predictive Models](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Predictive%20Analytics/Predictive%20Analytics%20-%20Final%20Report.pdf)
+[Predicting the Recurrence of Breast Cancer With Predictive Models Using SAS Enterprise Miner](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Predictive%20Analytics/Predictive%20Analytics%20-%20Final%20Report.pdf)
+
 
 #### Business Analytics Consulting Capstone Project
 [Comparison of the basic plan offers of the top cell phone plan providers in Canada and the US](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Business%20Analytics%20Consulting%20Capstone%20Project.pdf)
