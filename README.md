@@ -16,7 +16,7 @@ Various reports and assignments made during my Business Analytics program at Sen
 [Adventure Works - Territory Sales Project](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Programming%20For%20Analytics/Programming%20For%20Analytics%20Project.pdf)
 
 #### TMDB Report
-[TMDB Movie Data Analysis](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/TMDB%20Report/TMDb%20Report.pdf)
+[TMDB Movie Data Analysis](/TMDb-Report/TMDb_Report.ipynb)
 
 #### Statistics for Analytics
 - [1993 Cars Dataset Analysis](https://github.com/Tareqhaboukh/Business-Analytics/blob/a36fded7071da25fcdb0d2dae729375a878a0d7d/Statistics%20For%20Analytics/Assignment%201%20-%20Cars%20Dataset%20Analysis.pdf)
