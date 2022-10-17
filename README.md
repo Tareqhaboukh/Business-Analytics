@@ -9,7 +9,7 @@ Various reports and assignments made during my Business Analytics program at Sen
 - [K-means Clustering Algorithm with Python](./Applied-Data-Mining-and-Modeling/K-means_Clustering_Algorithm_with_Python.ipynb)
 
 #### Programming For Analytics Project
-- [Adventure Works - Territory Sales Project](/Programming-For-Analytics/Programming_For_Analytics_Project.ipynb) | [PDF](/Programming-For-Analytics/Programming_For_Analytics_Project.pdf)
+- [Adventureworks - Territory Sales Project](/Programming-For-Analytics/Programming_For_Analytics_Project.ipynb) | [PDF](/Programming-For-Analytics/Programming_For_Analytics_Project.pdf)
 
 #### TMDB Report
 [TMDB Movie Data Analysis](/TMDb-Report/TMDb_Report.ipynb)
