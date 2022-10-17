@@ -3,18 +3,18 @@
 ## Business-Analytics
 Various reports and assignments made during my Business Analytics program at Seneca College. 
 
-#### Applied Data Mining and Modeling
-- [Feature Selection with Python](./Applied-Data-Mining-and-Modeling/Feature_Selection_Methods_With_Python.ipynb)
+#### Applied Data Mining and Modeling (Python)
+- [Feature Selection](./Applied-Data-Mining-and-Modeling/Feature_Selection_Methods_With_Python.ipynb)
 - [Data Cleaning, Preparation, and Transformation On The Titanic Dataset](./Applied-Data-Mining-and-Modeling/ETL_Methods_With_Python.ipynb)
-- [K-means Clustering Algorithm with Python](./Applied-Data-Mining-and-Modeling/K-means_Clustering_Algorithm_with_Python.ipynb)
+- [K-means Clustering Algorithm](./Applied-Data-Mining-and-Modeling/K-means_Clustering_Algorithm_with_Python.ipynb)
 
 #### Programming For Analytics Project (SAS)
 - [Adventureworks - Territory Sales Project](/Programming-For-Analytics/Programming_For_Analytics_Project.ipynb) | [PDF](/Programming-For-Analytics/Programming_For_Analytics_Project.pdf)
 
-#### TMDB Report
+#### TMDB Report (Python)
 [TMDB Movie Data Analysis](/TMDb-Report/TMDb_Report.ipynb)
 
-#### Statistics for Analytics
+#### Statistics for Analytics (SAS)
 - [1993 Cars Dataset Analysis](https://github.com/Tareqhaboukh/Business-Analytics/blob/a36fded7071da25fcdb0d2dae729375a878a0d7d/Statistics%20For%20Analytics/Assignment%201%20-%20Cars%20Dataset%20Analysis.pdf)
 - [Hypothesis Testing](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%202-%20Hypothesis%20Testing.pdf)
 - [ANOVA Test](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%203%20-%20ANOVA%20Test.pdf)
@@ -22,13 +22,13 @@ Various reports and assignments made during my Business Analytics program at Sen
 - [Linear Regression](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Statistics%20For%20Analytics/Assignment%205%20-%20Linear%20Regression.pdf)
 - [Logestic Regression](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%206%20-%20Logestic%20Regression.pdf)
 
-#### Sentiment Analysis and Text Mining
+#### Sentiment Analysis & Text Mining (SAS Enterprise Miner)
 - [Amazon Fine Food Reviews Analysis 1](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Sentiment%20Analysis%20and%20Text%20Mining/Assignment%201.pdf)
 - [Amazon Fine Food Reviews Analysis 2](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Sentiment%20Analysis%20and%20Text%20Mining/Assignment%202.pdf)
 - [Twitter Tweets Sentiment Analysis](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Sentiment%20Analysis%20and%20Text%20Mining/Assignment%203.pdf)
 
-#### Predictive Analytics Report
-[Predicting the Recurrence of Breast Cancer With Predictive Models Using SAS Enterprise Miner](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Predictive%20Analytics/Predictive%20Analytics%20-%20Final%20Report.pdf)
+#### Predictive Analytics Report (SAS Enterprise Miner)
+[Predicting the Recurrence of Breast Cancer With Predictive Models](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Predictive%20Analytics/Predictive%20Analytics%20-%20Final%20Report.pdf)
 
 
 #### Business Analytics Consulting Capstone Project
