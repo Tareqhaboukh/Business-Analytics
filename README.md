@@ -15,7 +15,7 @@ Various reports and assignments made during my Business Analytics program at Sen
 [TMDB Movie Data Analysis](/TMDb-Report/TMDb_Report.ipynb)
 
 #### Statistics for Analytics (SAS)
-- [1993 Cars Dataset Analysis](https://github.com/Tareqhaboukh/Business-Analytics/blob/a36fded7071da25fcdb0d2dae729375a878a0d7d/Statistics%20For%20Analytics/Assignment%201%20-%20Cars%20Dataset%20Analysis.pdf)
+- [1993 Cars Dataset Analysis](/Statistics For Analytics/Cars_Dataset_Analysis.ipynb) | [PDF](https://github.com/Tareqhaboukh/Business-Analytics/blob/a36fded7071da25fcdb0d2dae729375a878a0d7d/Statistics%20For%20Analytics/Assignment%201%20-%20Cars%20Dataset%20Analysis.pdf)
 - [Hypothesis Testing](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%202-%20Hypothesis%20Testing.pdf)
 - [ANOVA Test](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%203%20-%20ANOVA%20Test.pdf)
 - [Correlation](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%204%20-%20Correlation.pdf)
