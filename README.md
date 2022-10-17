@@ -15,12 +15,12 @@ Various reports and assignments made during my Business Analytics program at Sen
 [TMDB Movie Data Analysis](/TMDb-Report/TMDb_Report.ipynb)
 
 #### Statistics for Analytics (SAS)
-- [1993 Cars Dataset Analysis](/Statistics For Analytics/Cars_Dataset_Analysis.ipynb) | [PDF](https://github.com/Tareqhaboukh/Business-Analytics/blob/a36fded7071da25fcdb0d2dae729375a878a0d7d/Statistics%20For%20Analytics/Assignment%201%20-%20Cars%20Dataset%20Analysis.pdf)
-- [Hypothesis Testing](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%202-%20Hypothesis%20Testing.pdf)
-- [ANOVA Test](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%203%20-%20ANOVA%20Test.pdf)
-- [Correlation](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%204%20-%20Correlation.pdf)
-- [Linear Regression](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Statistics%20For%20Analytics/Assignment%205%20-%20Linear%20Regression.pdf)
-- [Logestic Regression](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%206%20-%20Logestic%20Regression.pdf)
+- [1993 Cars Dataset Analysis](Statistics-For-Analytics/1993_Cars_Dataset_Analysis.ipynb) | [PDF](Statistics-For-Analytics/1993_Cars_Dataset_Analysis.pdf)
+- Hypothesis Testing | [PDF](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%202-%20Hypothesis%20Testing.pdf)
+- ANOVA Test | [PDF](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%203%20-%20ANOVA%20Test.pdf)
+- Correlation | [PDF](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%204%20-%20Correlation.pdf)
+- Linear Regression | [PDF](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Statistics%20For%20Analytics/Assignment%205%20-%20Linear%20Regression.pdf)
+- Logestic Regression | [PDF](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%206%20-%20Logestic%20Regression.pdf)
 
 #### Sentiment Analysis & Text Mining (SAS Enterprise Miner)
 - [Amazon Fine Food Reviews Analysis 1](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Sentiment%20Analysis%20and%20Text%20Mining/Assignment%201.pdf)
