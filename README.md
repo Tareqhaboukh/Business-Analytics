@@ -16,7 +16,7 @@ Various reports and assignments made during my Business Analytics program at Sen
 
 #### Statistics for Analytics (SAS)
 - [1993 Cars Dataset Analysis](Statistics-For-Analytics/1993_Cars_Dataset_Analysis.ipynb) | [PDF](Statistics-For-Analytics/1993_Cars_Dataset_Analysis.pdf)
-- Hypothesis Testing | [PDF](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%202-%20Hypothesis%20Testing.pdf)
+- [Hypothesis Testing](Statistics-For-Analytics/Hypothesis_Testing.ipynb) | [PDF](Statistics-For-Analytics/Hypothesis_Testing.pdf)
 - ANOVA Test | [PDF](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%203%20-%20ANOVA%20Test.pdf)
 - Correlation | [PDF](https://github.com/Tareqhaboukh/Business-Analytics/blob/063017517584ef0f15fd1eb864b2008a314d51df/Statistics%20For%20Analytics/Assignment%204%20-%20Correlation.pdf)
 - Linear Regression | [PDF](https://github.com/Tareqhaboukh/Business-Analytics/blob/main/Statistics%20For%20Analytics/Assignment%205%20-%20Linear%20Regression.pdf)
