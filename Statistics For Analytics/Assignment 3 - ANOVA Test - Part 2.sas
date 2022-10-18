@@ -49,6 +49,7 @@ proc glm
 	class Gender Education;
 	model JobLifetime = Gender Education Gender*Education;
 	means Education/ tukey;
+	lsmeans Education/ adjust= tukey;
 run;
 
 ods graphics off;
