@@ -2,6 +2,6 @@
 - [1993 Cars Dataset Analysis](1993_Cars_Dataset_Analysis.ipynb) | [PDF](1993_Cars_Dataset_Analysis.pdf)
 - [Hypothesis Testing](Hypothesis_Testing.ipynb) | [PDF](Hypothesis_Testing.pdf)
 - [ANOVA Test](ANOVA_Test.ipynb) | [PDF](ANOVA_Test.pdf)
-- Correlation | [PDF](Correlation.pdf)
+- [Correlation](Correlation.ipynb) | [PDF](Correlation.pdf)
 - Linear Regression | [PDF](Linear_Regression.pdf)
 - Logestic Regression | [PDF](Logestic_Regression.pdf)
