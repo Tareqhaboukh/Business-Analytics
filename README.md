@@ -8,11 +8,11 @@ Various reports and assignments made during my Business Analytics program at Sen
 - [Data Cleaning, Preparation, and Transformation On The Titanic Dataset](./Applied-Data-Mining-and-Modeling/ETL_Methods_With_Python.ipynb)
 - [K-means Clustering Algorithm](./Applied-Data-Mining-and-Modeling/K-means_Clustering_Algorithm_with_Python.ipynb)
 
-#### Programming For Analytics Project (SAS)
-- [Adventureworks - Territory Sales Project](/Programming-For-Analytics/Programming_For_Analytics_Project.ipynb) | [PDF](/Programming-For-Analytics/Programming_For_Analytics_Project.pdf)
-
 #### TMDB Report (Python)
 [TMDB Movie Data Analysis](/TMDb-Report/TMDb_Report.ipynb)
+
+#### Programming For Analytics Project (SAS)
+- [Adventureworks - Territory Sales Project](/Programming-For-Analytics/Programming_For_Analytics_Project.ipynb) | [PDF](/Programming-For-Analytics/Programming_For_Analytics_Project.pdf)
 
 #### Statistics for Analytics (SAS)
 - [1993 Cars Dataset Analysis](Statistics-For-Analytics/1993_Cars_Dataset_Analysis.ipynb) | [PDF](Statistics-For-Analytics/1993_Cars_Dataset_Analysis.pdf)
